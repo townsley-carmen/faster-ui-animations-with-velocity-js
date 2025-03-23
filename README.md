@@ -1,5 +1,1 @@
-Какой способ анимации элементов является наиболее эффективным и целесообразным — 
-пока ещё спорный вопрос. Вне сомнений то, что применять переходы и трансформации 
-в большинстве случаев нужно. Один из удобнейших инструментов для этого — 
-библиотека Velocity.js и в частности набор эффектов UI pack, с которым мы 
-предлагаем вам ознакомиться поближе. 
+Which method of animating elements is the most effective and appropriate is still a controversial issue. There is no doubt that transitions and transformations should be used in most cases.
